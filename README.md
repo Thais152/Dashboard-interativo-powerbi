@@ -1,5 +1,42 @@
-# Desafio Dashboard com botão de navegação | Treinamento DIO
+# Dashboard Interativo com Botões no Power BI
 
-Foi feito um relatório com duas páginas, nas quais tem diversos visuais, como o gráfico de pizza, gráfico de área, cartão e gráfico de mapa, radar, árvore hierárquica.
+## 📌 Sobre o projeto
 
-Na primeira página há um gráfico clusterizado em cima de um gráfico de pizza, ao apertar os botões é possível alternar entre esses dois visuais. A mesma situação acontece com o gráfico de mapa e o treemap.
+Este projeto foi desenvolvido com o objetivo de criar um dashboard interativo no Power BI, explorando recursos de navegação entre páginas por meio de botões, bookmarks e painéis interativos. O foco foi proporcionar uma experiência de uso mais intuitiva, permitindo que o usuário navegue entre diferentes análises sem precisar utilizar as abas padrão do Power BI.
+
+## 🎯 Objetivos
+
+- Desenvolver um dashboard com navegação personalizada;
+- Aplicar recursos de interação disponíveis no Power BI;
+- Melhorar a experiência do usuário (UX) em dashboards;
+- Organizar as informações de forma clara e objetiva.
+
+## 🛠️ Tecnologias utilizadas
+
+- Power BI
+- Power Query
+- Bookmarks
+- Botões de navegação
+- Segmentações de dados
+
+## 📊 Funcionalidades
+
+- Navegação entre páginas utilizando botões;
+- Utilização de bookmarks para controlar a exibição das telas;
+- Dashboard totalmente interativo;
+- Segmentações para filtragem das informações;
+- Layout organizado para facilitar a análise dos dados.
+
+## 📷 Dashboard
+
+*(Inserir aqui as imagens do dashboard)*
+
+## 💡 Principais aprendizados
+
+Durante o desenvolvimento deste projeto foi possível praticar:
+
+- Construção de dashboards interativos;
+- Utilização de bookmarks e botões;
+- Organização visual de dashboards;
+- Boas práticas de experiência do usuário (UX);
+- Estruturação de relatórios no Power BI.
