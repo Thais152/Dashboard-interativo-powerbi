@@ -27,10 +27,6 @@ Este projeto foi desenvolvido com o objetivo de criar um dashboard interativo no
 - Segmentações para filtragem das informações;
 - Layout organizado para facilitar a análise dos dados.
 
-## 📷 Dashboard
-
-*(Inserir aqui as imagens do dashboard)*
-
 ## 💡 Principais aprendizados
 
 Durante o desenvolvimento deste projeto foi possível praticar:
